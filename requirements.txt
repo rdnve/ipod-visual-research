@@ -1,0 +1,8 @@
+numpy
+scipy
+pillow
+matplotlib
+boltons
+einops
+# PyTorch ставится отдельно (версия для процессора), см. README
+# DeepGaze: pip install git+https://github.com/matthias-k/DeepGaze.git
